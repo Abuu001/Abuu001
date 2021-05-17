@@ -23,7 +23,7 @@
 </br>
 
 ### Databases {NoSql && Sql}
-|Programming Tools |
+|Databases |
 |-----|
 |<div display="flex" align="left" justify-content="space-between" align-items="centre" width="100%"><img align="left" width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/postgresql-icon.svg" alt="postgres"><img align="left" width="65px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/mongodb.svg" alt="mongo"><img align="left" width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/redis.svg" alt="redis"><img align="left" width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/sql-file-format-symbol-svgrepo-com.svg" alt="sql"></div>|
 

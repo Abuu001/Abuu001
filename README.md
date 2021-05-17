@@ -14,6 +14,10 @@ Here are some ideas to get you started:
   Visitor Count<br>
 <img src="https://profile-counter.glitch.me/Abuu001/count.svg" />
 </p>
+### Languages skilled and Frameworks
+<img align="right" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/docker-logo-svgrepo-com.svg" alt="docker">
+
+
 
 ### My Github Statistics
  

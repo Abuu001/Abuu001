@@ -9,14 +9,14 @@
 </br>
 
 ### Languages skilled and Frameworks
-|Languages skilled and Frameworks|
+|Technologies|
 |-----|
 |<div display="space-between" width="100px"><img align="left" width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/java-svgrepo-com.svg" alt="Java"><img align="left" width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/javascript-logo-svgrepo-com.svg" alt="Javascript"><img align="left" width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/nodejs-1-logo-svgrepo-com.svg" alt="nodejs"><img align="left" width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/react-logo-svgrepo-com.svg" alt="reactjs"><img align="left" width="45px" color="#28a745" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/spring-svgrepo-com.svg" alt="spring"></div>|
 
 </br>
 
 ### Programming Tools
-|Programming Tools|
+|IDE's and Tools|
 |-----|
 |<div display="space-between" width="100%"><img width="45px" align="right" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/linux-svgrepo-com.svg" alt="Linux"><img width="45px" align="right" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/docker-logo-svgrepo-com.svg" alt="docker"><img width="45px" align="right" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/intellijidea-svgrepo-com.svg" alt="intellijidea"><img width="45px" align="right" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/visual-studio-code-logo-svgrepo-com.svg" alt="vscode"></div>|
 

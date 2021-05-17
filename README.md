@@ -9,9 +9,15 @@
 </br>
 
 
-|Donate/Support|
+|Languages skilled and Frameworks|
 |-----|
-|<a href="https://www.patreon.com/bePatron?u=45451225"><img align="left" alt="Arya Shah - Patreon" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/patreon.svg" /></a><a href="https://ko-fi.com/aryashah"><img align="left" alt="Arya Shah - Ko-Fi" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ko-fi.svg" /></a>|
+|<div display="space-between" width="100px">
+  <img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/java-svgrepo-com.svg" alt="Java">
+  <img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/javascript-logo-svgrepo-com.svg" alt="Javascript">
+  <img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/nodejs-1-logo-svgrepo-com.svg" alt="nodejs">
+  <img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/react-logo-svgrepo-com.svg" alt="reactjs">
+  <img width="45px" color="#28a745" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/spring-svgrepo-com.svg" alt="spring">
+</div>|
 ### Languages skilled and Frameworks
 
 <div display="space-between" width="100px">

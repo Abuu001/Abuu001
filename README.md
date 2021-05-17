@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 
 ### Social media
 <div> 
-  <a href="https://www.linkedin.com/in/abraham-lugonzo-4448041a8/" >
-    <img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/linkedin-logo-svgrepo-com.svg" alt="linkedin">
+  <a href="https://www.linkedin.com/in/abraham-lugonzo-4448041a8/" target="_blank">
+    <img width="85px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/linkedin-logo-svgrepo-com.svg" alt="linkedin">
   </a>
 </div>
 </br>

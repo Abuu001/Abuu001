@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Languages skilled and Frameworks
 
-<div display="space-between" width="100%">
+<div display="space-between" width="100px">
   <img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/java-svgrepo-com.svg" alt="Java">
   <img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/javascript-logo-svgrepo-com.svg" alt="Javascript">
   <img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/nodejs-1-logo-svgrepo-com.svg" alt="nodejs">
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </br>
 
 ### Programming Tools
-<div display="space-between" width="100">
+<div display="space-between" width="100%">
   <img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/linux-svgrepo-com.svg" alt="Linux">
   <img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/docker-logo-svgrepo-com.svg" alt="docker">
   <img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/intellijidea-svgrepo-com.svg" alt="intellijidea">
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </br>
 
 ### Databases {NoSql && Sql}
-<div display="flex" justify-content="space-between" align-items="centre" width="100">
+<div display="flex" justify-content="space-between" align-items="centre" width="100%">
    <img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/postgresql-icon.svg" alt="postgres">
      <img width="65px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/mongodb.svg" alt="mongo">
      <img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/redis.svg" alt="redis">
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </br>
 
 ### Social media
-<div> 
+<div display="flex" justify-content="space-between" align-items="centre" width="100px> 
   <a href="https://www.linkedin.com/in/abraham-lugonzo-4448041a8/" target="blank">
     <img width="85px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/linkedin-logo-svgrepo-com.svg" alt="linkedin">
   </a>

@@ -10,6 +10,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p align="center"> 
+  Visitor Count<br>
+<img src="https://profile-counter.glitch.me/Abuu001/count.svg" />
+</p>
+
 ### My Github Statistics
 ![Abuu001's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abuu001&show_icons=true&theme=radical&hide_title=true)
  

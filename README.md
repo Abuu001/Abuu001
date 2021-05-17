@@ -51,9 +51,12 @@ Here are some ideas to get you started:
 
 ### Social media
 <div> 
-  <a href="https://www.linkedin.com/in/abraham-lugonzo-4448041a8/" target="_blank">
+  <a href="https://www.linkedin.com/in/abraham-lugonzo-4448041a8/" target="blank">
     <img width="85px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/linkedin-logo-svgrepo-com.svg" alt="linkedin">
   </a>
+   <a href="mailto:abramlugonzo@gmail.com"> 
+      <img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/gmail-icon-logo-svgrepo-com.svg" alt="gmail">
+   </a>
 </div>
 </br>
 ### My Github Statistics

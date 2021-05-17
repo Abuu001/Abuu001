@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 </p>
 
 ### My Github Statistics
+<p>
 ![Abuu001's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abuu001&show_icons=true&theme=radical&hide_title=true)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abuu001)](https://github.com/Abuu001/github-readme-stats)
-
+</p>
 ![](https://activity-graph.herokuapp.com/graph?username=Abuu001&theme=react-dark)

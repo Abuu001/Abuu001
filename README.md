@@ -30,7 +30,7 @@
 </br>
 
 ### Social media
-|Programming Tools|
+|Socialmedia|
 |-----|
 |<a href="https://www.linkedin.com/in/abraham-lugonzo-4448041a8/" target="blank" align="right"><img align="left" width="85px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/linkedin-logo-svgrepo-com.svg" alt="linkedin"></a><a href="mailto:abramlugonzo@gmail.com"><img align="left" width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/gmail-icon-logo-svgrepo-com.svg" alt="gmail"></a>|
                                                                                                                              

@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 ### My Github Statistics
 ![Abuu001's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abuu001&show_icons=true&theme=radical&hide_title=true)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abuu001)](https://github.com/Abuu001/github-readme-stats&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abuu001)](https://github.com/Abuu001/github-readme-stats)
+
+[![Abuu001's wakatime stats](https://github-readme-stats.vercel.app/api/Abuu001?username=Abuu001)](https://github.com/Abuu001/github-readme-stats)

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img src="https://profile-counter.glitch.me/Abuu001/count.svg" />
 </p>
 ### Languages skilled and Frameworks
-<img align="right" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/java-svgrepo-com.svg" alt="docker">
+<img width="30px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/java-svgrepo-com.svg" alt="docker">
 
 
 

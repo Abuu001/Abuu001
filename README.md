@@ -3,7 +3,7 @@
 
 <p align="center"> 
   Visitor Count<br>
-<img src="https://profile-counter.glitch.me/Abuu001/count.svg" />
+  <img src="https://profile-counter.glitch.me/Abuu001/count.svg" />
 </p>
 
 </br>
@@ -11,28 +11,28 @@
 ### Languages skilled and Frameworks
 |Languages skilled and Frameworks|
 |-----|
-|<div display="space-between" width="100px"><img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/java-svgrepo-com.svg" alt="Java"><img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/javascript-logo-svgrepo-com.svg" alt="Javascript"><img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/nodejs-1-logo-svgrepo-com.svg" alt="nodejs"><img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/react-logo-svgrepo-com.svg" alt="reactjs"><img width="45px" color="#28a745" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/spring-svgrepo-com.svg" alt="spring"></div>|
+|<div display="space-between" width="100px"><img align="left" width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/java-svgrepo-com.svg" alt="Java"><img align="left" width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/javascript-logo-svgrepo-com.svg" alt="Javascript"><img align="left" width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/nodejs-1-logo-svgrepo-com.svg" alt="nodejs"><img align="left" width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/react-logo-svgrepo-com.svg" alt="reactjs"><img align="left" width="45px" color="#28a745" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/spring-svgrepo-com.svg" alt="spring"></div>|
 
 </br>
 
 ### Programming Tools
 |Programming Tools|
 |-----|
-|<div display="space-between" width="100%"><img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/linux-svgrepo-com.svg" alt="Linux"><img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/docker-logo-svgrepo-com.svg" alt="docker"><img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/intellijidea-svgrepo-com.svg" alt="intellijidea"><img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/visual-studio-code-logo-svgrepo-com.svg" alt="vscode"></div>|
+|<div display="space-between" width="100%"><img width="45px" align="right" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/linux-svgrepo-com.svg" alt="Linux"><img width="45px" align="right" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/docker-logo-svgrepo-com.svg" alt="docker"><img width="45px" align="right" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/intellijidea-svgrepo-com.svg" alt="intellijidea"><img width="45px" align="right" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/visual-studio-code-logo-svgrepo-com.svg" alt="vscode"></div>|
 
 </br>
 
 ### Databases {NoSql && Sql}
-|Programming Tools|
+|Programming Tools |
 |-----|
-|<div display="flex" justify-content="space-between" align-items="centre" width="100%"><img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/postgresql-icon.svg" alt="postgres"><img width="65px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/mongodb.svg" alt="mongo"><img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/redis.svg" alt="redis"><img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/sql-file-format-symbol-svgrepo-com.svg" alt="sql"></div>|
+|<div display="flex" align="left" justify-content="space-between" align-items="centre" width="100%"><img align="left" width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/postgresql-icon.svg" alt="postgres"><img align="left" width="65px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/mongodb.svg" alt="mongo"><img align="left" width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/redis.svg" alt="redis"><img align="left" width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/sql-file-format-symbol-svgrepo-com.svg" alt="sql"></div>|
 
 </br>
 
 ### Social media
 |Programming Tools|
 |-----|
-|<a href="https://www.linkedin.com/in/abraham-lugonzo-4448041a8/" target="blank"><img width="85px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/linkedin-logo-svgrepo-com.svg" alt="linkedin"></a><a href="mailto:abramlugonzo@gmail.com"><img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/gmail-icon-logo-svgrepo-com.svg" alt="gmail"></a>|
+|<a href="https://www.linkedin.com/in/abraham-lugonzo-4448041a8/" target="blank" align="right"><img align="left" width="85px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/linkedin-logo-svgrepo-com.svg" alt="linkedin"></a><a href="mailto:abramlugonzo@gmail.com"><img align="left" width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/gmail-icon-logo-svgrepo-com.svg" alt="gmail"></a>|
                                                                                                                              
 </br>
                                                                                                                              

@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ### Databases {NoSql && Sql}
 <div display="space-between" width="100">
    <img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/postgresql-icon.svg" alt="postgres">
-     <img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/mongodb.svg" alt="mongo">
+     <img width="65px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/mongodb.svg" alt="mongo">
      <img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/redis.svg" alt="redis">
     <img width="45px" src="https://github.com/Abuu001/Abuu001/blob/main/Assets/sql-file-format-symbol-svgrepo-com.svg" alt="sql">
 </div>

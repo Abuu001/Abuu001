@@ -1,21 +1,16 @@
-### Hi there 👋
+### Hello World !!
+</hr>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 <p align="center"> 
   Visitor Count<br>
 <img src="https://profile-counter.glitch.me/Abuu001/count.svg" />
 </p>
 
 </br>
+
+
+|-----|
+|<a href="https://www.patreon.com/bePatron?u=45451225"><img align="left" alt="Arya Shah - Patreon" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/patreon.svg" /></a><a href="https://ko-fi.com/aryashah"><img align="left" alt="Arya Shah - Ko-Fi" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ko-fi.svg" /></a>|
 
 ### Languages skilled and Frameworks
 

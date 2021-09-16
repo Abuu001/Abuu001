@@ -1,6 +1,15 @@
 ### Hello World !!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Abraham 🙋‍♂️.
 </hr>
 
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
+</p>
+
+</hr>
+
 <p align="center"> 
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/Abuu001/count.svg" />
